@@ -10804,7 +10804,7 @@ const Bd = ({ isOpen: j, closeModal: k }) => (
       className: "bg-dark py-2 py-md-3 ps-5 fixed-top",
       children: s.jsx("a", {
         className: "hover",
-        href: "https://kengo-masunari-2025.netlify.app/",
+        href: "https://kengo-react-portfolio.netlify.app/",
         children: s.jsx("img", { className: "", src: Xf }),
       }),
     }),
